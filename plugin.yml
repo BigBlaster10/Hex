@@ -1,0 +1,5 @@
+name: Hexagon
+main: net.pixelderp.hexagon.MainHexagon
+version: 1.0
+commands:
+   hex:
